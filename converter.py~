@@ -1,0 +1,3 @@
+def converter(n):
+    notes = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'Bb', 'C', 'Db', 'D']
+    keys = ['a', 'w', 's', 'e', 'd', 'f', 't', 'g', 'y', 'h', 'u', 'j', 'k', 'l']
